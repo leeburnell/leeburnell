@@ -41,3 +41,9 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+Examples of my work:
+
+https://leeburnell.github.io/CourseWebsite/
+https://leeburnell.github.io/meet-landing/
+https://lb-fylo-landing.netlify.app/
