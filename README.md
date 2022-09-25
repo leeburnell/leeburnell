@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @ItsBeeroyBTW on Twitter and Insta
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a keen baker (but absolutely shocking at it)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeburnell&theme=dracula" />
