@@ -44,6 +44,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 Examples of my work:
 
-https://leeburnell.github.io/CourseWebsite/
-https://leeburnell.github.io/meet-landing/
+https://leeburnell.github.io/CourseWebsite/ <br />
+https://leeburnell.github.io/meet-landing/ <br />
 https://lb-fylo-landing.netlify.app/
