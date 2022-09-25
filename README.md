@@ -2,8 +2,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-Here are some ideas to get you started:
+A little about me:
 
 - 🔭 I’m currently working on improving my ability to prototype and build static front end builds
 - 🌱 I’m currently learning JavaScript, React, TailwindCSS, TypeScript
